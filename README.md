@@ -65,6 +65,3 @@ The application stores the following information in MongoDB:
 - Threading implementation for non-blocking scraping operations
 - Error handling and logging mechanisms
 
-## Security Note
-
-Please ensure to keep your credentials secure and never commit them directly in the code. Consider using environment variables for sensitive information.
